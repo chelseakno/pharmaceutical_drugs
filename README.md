@@ -1,1 +1,1 @@
-# pharmaceutical_drugs
+# Pharmaceutical Drugs
